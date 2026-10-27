@@ -1,6 +1,7 @@
 # Gut Microbiome Topological Data Analysis Pipeline
 
 This repository contains the analysis code associated with the preprint *Evolution of novel host-microbiota coupling underlies adaptation to nutrient-scarce environments* (bioRxiv, 2026; https://doi.org/10.64898/2026.10.10.758241).  
+Code archive (Zenodo): https://doi.org/10.5281/zenodo.23680629
 The pipeline applies Mapper-based topological data analysis (TDA) and sparse modeling to identify associations between gut microbiome (or pathway) composition and host morphometric traits.
 
 ---
